@@ -1,4 +1,4 @@
-Theory:
+*Theory:*
 Categorical data analysis is the study of data that represents categories or groups. In Python, it is performed using libraries like pandas and numpy to calculate frequencies, visualize data, and analyze relationships.
 import pandas- This line imports the pandas library.Pandas is used for data handling and analysis.
 pd.read_csv("/content/Expt11.csv")-It reads the CSV file from the given path and stores it as a dataFrame in Python.
